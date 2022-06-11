@@ -1,2 +1,3 @@
-# pooly-assets
+# Pooly Assets
+
 A collection of Pooly assets: avatars, icons, models, etc...
