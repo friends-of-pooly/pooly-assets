@@ -6,7 +6,7 @@
 A collection of Pooly assets: avatars, icons, models, etc...
 
 - [Story](https://github.com/friends-of-pooly/pooly-assets/tree/main/story): Original PoolyNFT Concepts
-- [Birbs](https://github.com/friends-of-pooly/pooly-assets/tree/main/birb): General Pooly Graphs
+- [Birbs](https://github.com/friends-of-pooly/pooly-assets/tree/main/birb): General Pooly Graphics/Icons
 - [PFP](https://github.com/friends-of-pooly/pooly-assets/tree/main/pfp): Submissions for Twitter Profile Picture
 - [Items](https://github.com/friends-of-pooly/pooly-assets/tree/main/items): Original items used in PoolTogether NFT campaign
 
