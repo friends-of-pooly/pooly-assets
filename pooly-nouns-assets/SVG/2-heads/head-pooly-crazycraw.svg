@@ -13,80 +13,164 @@
   <defs
      id="defs2" />
   <g
-     id="layer1"
+     id="g1912"
      style="display:inline">
     <rect
        style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4851"
+       id="rect4581"
+       width="2.6458333"
+       height="5.2916665"
+       x="63.5"
+       y="7.9375" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4579"
+       width="2.6458333"
+       height="5.2916665"
+       x="60.854164"
+       y="10.583333" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4577"
+       width="2.6458333"
+       height="5.2916665"
+       x="58.208332"
+       y="13.229166" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4575"
+       width="2.6458333"
+       height="2.6458333"
+       x="55.5625"
+       y="5.2916665" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4573"
+       width="5.2916665"
+       height="2.6458333"
+       x="52.916664"
+       y="7.9375" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4571"
+       width="5.2916665"
+       height="2.6458333"
+       x="50.270832"
+       y="10.583333" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4569"
+       width="2.6458333"
+       height="2.6458333"
+       x="44.979168"
+       y="7.9375" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4567"
+       width="2.6458333"
+       height="2.6458333"
+       x="37.041668"
+       y="7.9375" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4565"
+       width="10.583333"
+       height="2.6458333"
+       x="37.041668"
+       y="10.583333" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4563"
+       width="2.6458333"
+       height="2.6458333"
+       x="26.458332"
+       y="5.2916665" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4561"
+       width="5.2916665"
+       height="2.6458333"
+       x="26.458332"
+       y="7.9375" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4559"
+       width="5.291667"
+       height="2.6458335"
+       x="29.104166"
+       y="10.583333" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4557"
+       width="2.6458333"
+       height="5.2916665"
+       x="15.875"
+       y="15.875" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect2076"
+       width="2.6458333"
+       height="5.2916665"
+       x="18.520834"
+       y="7.9375" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect1898"
        width="2.6458333"
        height="5.2916665"
        x="23.8125"
        y="13.229166" />
     <rect
        style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4855"
+       id="rect1900"
        width="5.2916665"
        height="5.2916665"
        x="21.166666"
        y="21.166666" />
     <rect
        style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4857"
-       width="2.6458333"
-       height="7.9375"
-       x="23.8125"
-       y="29.104166" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4859"
-       width="5.2916665"
-       height="5.2916665"
-       x="18.520834"
-       y="29.104166" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4861"
+       id="rect1906"
        width="2.6458333"
        height="5.2916665"
        x="21.166666"
        y="10.583333" />
     <rect
        style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4863"
+       id="rect1908"
        width="2.6458333"
        height="5.2916665"
        x="18.520834"
        y="18.520834" />
     <rect
        style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4865"
+       id="rect4583"
+       width="5.2916665"
+       height="5.2916665"
+       x="58.208332"
+       y="21.166666" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4585"
        width="2.6458333"
        height="5.2916665"
-       x="15.875"
-       y="26.458332" />
+       x="63.5"
+       y="18.520834" />
+    <rect
+       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+       id="rect4587"
+       width="2.6458333"
+       height="5.2916665"
+       x="66.145836"
+       y="15.875" />
   </g>
   <g
-     id="layer5"
+     id="g1986"
      style="display:inline">
     <rect
        style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.256584"
-       id="rect1588"
-       width="29.104166"
-       height="39.6875"
-       x="26.458332"
-       y="15.875" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4849"
-       width="2.6458333"
-       height="39.6875"
-       x="55.5625"
-       y="15.875" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4991"
-       width="29.104166"
-       height="2.6458333"
+       id="rect1980"
+       width="31.75"
+       height="42.333332"
        x="26.458332"
        y="13.229166" />
   </g>
@@ -166,77 +250,6 @@
        width="2.6458333"
        height="2.6458333"
        x="44.979168"
-       y="23.8125" />
-  </g>
-  <g
-     id="layer2"
-     style="display:inline">
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6091"
-       width="10.583331"
-       height="13.229167"
-       x="44.979168"
-       y="21.166666" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6089"
-       width="2.6458333"
-       height="2.6458333"
-       x="42.333332"
-       y="26.458332" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6087"
-       width="2.6458333"
-       height="5.2916665"
-       x="26.458332"
-       y="26.458332" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6085"
-       width="5.2916665"
-       height="2.6458333"
-       x="26.458332"
-       y="26.458332" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6081"
-       width="10.583333"
-       height="13.229167"
-       x="31.75"
-       y="21.166666" />
-  </g>
-  <g
-     id="g4776"
-     style="display:inline">
-    <rect
-       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4746"
-       width="2.6458333"
-       height="7.9375"
-       x="50.270832"
-       y="23.8125" />
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4748"
-       width="2.6458333"
-       height="7.9375"
-       x="47.625"
-       y="23.8125" />
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4750"
-       width="2.6458333"
-       height="7.9375"
-       x="34.395832"
-       y="23.8125" />
-    <rect
-       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4774"
-       width="2.6458333"
-       height="7.9375"
-       x="37.041668"
        y="23.8125" />
   </g>
 </svg>
