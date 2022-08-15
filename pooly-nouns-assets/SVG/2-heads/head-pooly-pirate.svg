@@ -13,23 +13,37 @@
   <defs
      id="defs2" />
   <path
-     id="rect4865"
+     id="rect4991"
      style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
      d="M 80 40 L 80 60 L 90 60 L 90 70 L 100 70 L 100 80 L 80 80 L 80 70 L 70 70 L 70 90 L 80 90 L 80 100 L 100 100 L 100 110 L 90 110 L 70 110 L 70 100 L 60 100 L 60 120 L 70 120 L 70 130 L 90 130 L 90 140 L 100 140 L 100 210 L 210 210 L 220 210 L 220 60 L 210 60 L 210 50 L 100 50 L 90 50 L 90 40 L 80 40 z "
      transform="scale(0.26458333)" />
   <path
-     id="rect862"
+     id="rect8494"
      style="fill:#f2a52b;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
-     d="m 140,130 v 10 h -10 v 30 h 10 v 10 h 10 v 10 h 10 v 10 h 10 v -10 h 10 v -10 h 10 v -10 h 10 v -30 h -10 v -10 z"
+     d="m 140,130 v 10 h -10 v 20 h 10 v 10 h 10 v 10 h 10 v 10 h 10 v -10 h 10 v -10 h 10 v -10 h 10 v -20 h -10 v -10 z"
      transform="scale(0.26458333)" />
   <path
-     id="rect872"
+     id="rect12247"
      style="fill:#7f3300;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
      d="m 150,140 v 10 h 10 v -10 z m 20,0 v 10 h 10 v -10 z"
      transform="scale(0.26458333)" />
+  <rect
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     id="rect1127"
+     width="7.9375"
+     height="7.9375"
+     x="31.75"
+     y="23.8125" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     id="rect1129"
+     width="2.6458333"
+     height="2.6458333"
+     x="31.75"
+     y="23.8125" />
   <path
-     id="rect901"
-     style="fill:#000000;fill-opacity:0.99;fill-rule:evenodd;stroke-width:1.00157"
-     d="m 100,80 v 20 h 10 v 10 h 10 v 10 h 20 v -10 h 10 v -10 h 20 v 10 h 10 v 10 h 20 v -10 h 10 v -10 h 10 V 80 Z"
+     id="rect4658"
+     style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 100,70 v 10 h 40 v 10 h 20 v 30 h 10 v 10 h 30 v -10 h 10 V 80 H 160 150 V 70 Z m 110,10 h 10 V 70 h -10 z"
      transform="scale(0.26458333)" />
 </svg>

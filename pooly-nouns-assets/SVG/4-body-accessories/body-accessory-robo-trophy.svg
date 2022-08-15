@@ -12,110 +12,23 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2" />
-  <g
-     id="layer1"
-     style="display:inline">
-    <rect
-       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect3157"
-       width="7.9374995"
-       height="23.812502"
-       x="15.875"
-       y="52.916664" />
-    <rect
-       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect9783"
-       width="5.2916665"
-       height="18.520834"
-       x="10.583333"
-       y="50.270832" />
-    <rect
-       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect9785"
-       width="2.6458333"
-       height="7.9375"
-       x="7.9375"
-       y="50.270832" />
-    <rect
-       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect9787"
-       width="2.6458333"
-       height="5.2916665"
-       x="5.2916665"
-       y="47.625" />
-    <rect
-       style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect9789"
-       width="2.6458333"
-       height="2.6458333"
-       x="2.6458333"
-       y="47.625" />
-    <rect
-       style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect11646"
-       width="2.6458333"
-       height="2.6458333"
-       x="5.2916665"
-       y="52.916664" />
-    <rect
-       style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect11648"
-       width="2.6458333"
-       height="5.2916665"
-       x="7.9375"
-       y="58.208332" />
-    <rect
-       style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect11650"
-       width="2.6458333"
-       height="7.9375"
-       x="13.229166"
-       y="63.5" />
-    <rect
-       style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect11652"
-       width="2.6458333"
-       height="13.229166"
-       x="18.520834"
-       y="66.145836" />
-  </g>
-  <g
-     id="layer12"
-     style="display:inline">
-    <rect
-       style="fill:#782121;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect36828"
-       width="13.229166"
-       height="2.6458333"
-       x="5.2916665"
-       y="50.270832" />
-    <rect
-       style="fill:#ffd800;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect36852"
-       width="7.9375"
-       height="2.6458333"
-       x="7.9375"
-       y="47.625" />
-    <rect
-       style="fill:#ffd800;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect36876"
-       width="2.6458333"
-       height="5.2916665"
-       x="10.583333"
-       y="42.333332" />
-    <rect
-       style="fill:#ffd800;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect36878"
-       width="7.9375"
-       height="2.6458333"
-       x="7.9375"
-       y="39.6875" />
-    <rect
-       style="fill:#ffd800;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect36880"
-       width="13.229166"
-       height="7.9375"
-       x="5.2916665"
-       y="31.75" />
-  </g>
+  <path
+     id="rect3157"
+     style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 20,180 v 20 h 10 v 20 h 10 v 40 h 20 v 30 H 90 V 200 H 60 V 190 H 40 30 v -10 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect9789"
+     style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 10,180 v 10 h 10 v -10 z m 10,20 v 10 h 10 v -10 z m 10,20 v 20 h 10 v -20 z m 20,20 v 30 h 10 v -30 z m 20,10 v 50 h 10 v -50 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect36828"
+     style="fill:#782121;fill-rule:evenodd;stroke-width:0.264999"
+     d="M 5.2916665,50.270832 H 18.520833 v 2.645833 H 5.2916665 Z" />
+  <path
+     id="rect36852"
+     style="fill:#ffd800;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 20,120 v 30 h 10 v 10 h 10 v 20 H 30 v 10 H 60 V 180 H 50 v -20 h 10 v -10 h 10 v -30 z"
+     transform="scale(0.26458333)" />
 </svg>

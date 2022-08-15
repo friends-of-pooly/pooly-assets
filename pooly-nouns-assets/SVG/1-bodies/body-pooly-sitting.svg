@@ -12,73 +12,14 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2" />
-  <g
-     id="layer1">
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect932"
-       width="37.041664"
-       height="29.104164"
-       x="23.8125"
-       y="55.5625" />
-  </g>
-  <g
-     id="layer4">
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4231"
-       width="2.6458333"
-       height="2.6458333"
-       x="60.854164"
-       y="79.375" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4229"
-       width="2.6458333"
-       height="2.6458333"
-       x="21.166666"
-       y="79.375" />
-    <rect
-       style="fill:#ffb70f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4258"
-       width="15.875"
-       height="2.6458333"
-       x="7.9375"
-       y="82.020836" />
-    <rect
-       style="fill:#ffb70f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4282"
-       width="2.6458333"
-       height="5.2916665"
-       x="5.2916665"
-       y="76.729164" />
-    <rect
-       style="fill:#ffb70f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4284"
-       width="2.6458333"
-       height="5.2916665"
-       x="10.583333"
-       y="76.729164" />
-    <rect
-       style="fill:#ffb70f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4286"
-       width="15.875"
-       height="2.6458333"
-       x="60.854164"
-       y="82.020836" />
-    <rect
-       style="fill:#ffb70f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4288"
-       width="2.6458333"
-       height="5.2916665"
-       x="76.729164"
-       y="76.729164" />
-    <rect
-       style="fill:#ffb70f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4290"
-       width="2.6458333"
-       height="5.2916665"
-       x="71.4375"
-       y="76.729164" />
-  </g>
+  <path
+     id="rect932"
+     style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 90,210 v 90 H 80 v 10 h 10 v 10 h 140 v -10 h 10 v -10 h -10 v -90 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect4258"
+     style="fill:#ffb70f;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 20,290 v 20 h 10 v -20 z m 10,20 v 10 H 90 V 310 H 50 V 290 H 40 v 20 z m 240,-20 v 20 h -40 v 10 h 60 v -10 h -10 v -20 z m 20,20 h 10 v -20 h -10 z"
+     transform="scale(0.26458333)" />
 </svg>

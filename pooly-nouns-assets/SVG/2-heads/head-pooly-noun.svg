@@ -12,231 +12,34 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2" />
-  <g
-     id="layer1"
-     style="display:inline">
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4851"
-       width="2.6458333"
-       height="5.2916665"
-       x="23.8125"
-       y="13.229166" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4855"
-       width="5.2916665"
-       height="5.2916665"
-       x="21.166666"
-       y="21.166666" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4857"
-       width="2.6458333"
-       height="7.9375"
-       x="23.8125"
-       y="29.104166" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4859"
-       width="5.2916665"
-       height="5.2916665"
-       x="18.520834"
-       y="29.104166" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4861"
-       width="2.6458333"
-       height="5.2916665"
-       x="21.166666"
-       y="10.583333" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4863"
-       width="2.6458333"
-       height="5.2916665"
-       x="18.520834"
-       y="18.520834" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4865"
-       width="2.6458333"
-       height="5.2916665"
-       x="15.875"
-       y="26.458332" />
-  </g>
-  <g
-     id="layer5"
-     style="display:inline">
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.256584"
-       id="rect1588"
-       width="29.104166"
-       height="39.6875"
-       x="26.458332"
-       y="15.875" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4849"
-       width="2.6458333"
-       height="39.6875"
-       x="55.5625"
-       y="15.875" />
-    <rect
-       style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4991"
-       width="29.104166"
-       height="2.6458333"
-       x="26.458332"
-       y="13.229166" />
-  </g>
-  <g
-     id="layer3"
-     style="display:inline">
-    <rect
-       style="fill:#f2a52b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect8494"
-       width="2.6458333"
-       height="2.6458333"
-       x="42.333332"
-       y="47.625" />
-    <rect
-       style="fill:#f2a52b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect8492"
-       width="7.9375"
-       height="2.6458333"
-       x="39.6875"
-       y="44.979168" />
-    <rect
-       style="fill:#f2a52b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect8490"
-       width="18.520832"
-       height="5.2916698"
-       x="34.395832"
-       y="37.041668" />
-    <rect
-       style="fill:#f2a52b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect8486"
-       width="13.229166"
-       height="10.583333"
-       x="37.041668"
-       y="34.395832" />
-    <rect
-       style="fill:#7f3300;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect12247"
-       width="2.6458333"
-       height="2.6458333"
-       x="44.979168"
-       y="37.041668" />
-    <rect
-       style="fill:#7f3300;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect12245"
-       width="2.6458333"
-       height="2.6458333"
-       x="39.6875"
-       y="37.041668" />
-  </g>
-  <g
-     id="g1133"
-     style="display:inline">
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect1125"
-       width="7.9375"
-       height="7.9375"
-       x="44.979168"
-       y="23.8125" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect1127"
-       width="7.9375"
-       height="7.9375"
-       x="31.75"
-       y="23.8125" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect1129"
-       width="2.6458333"
-       height="2.6458333"
-       x="31.75"
-       y="23.8125" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect1131"
-       width="2.6458333"
-       height="2.6458333"
-       x="44.979168"
-       y="23.8125" />
-  </g>
-  <g
-     id="layer2"
-     style="display:inline">
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6091"
-       width="10.583331"
-       height="13.229167"
-       x="44.979168"
-       y="21.166666" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6089"
-       width="2.6458333"
-       height="2.6458333"
-       x="42.333332"
-       y="26.458332" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6087"
-       width="2.6458333"
-       height="5.2916665"
-       x="26.458332"
-       y="26.458332" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6085"
-       width="5.2916665"
-       height="2.6458333"
-       x="26.458332"
-       y="26.458332" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6081"
-       width="10.583333"
-       height="13.229167"
-       x="31.75"
-       y="21.166666" />
-  </g>
-  <g
-     id="g4776"
-     style="display:inline">
-    <rect
-       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4746"
-       width="2.6458333"
-       height="7.9375"
-       x="50.270832"
-       y="23.8125" />
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4748"
-       width="2.6458333"
-       height="7.9375"
-       x="47.625"
-       y="23.8125" />
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4750"
-       width="2.6458333"
-       height="7.9375"
-       x="34.395832"
-       y="23.8125" />
-    <rect
-       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect4774"
-       width="2.6458333"
-       height="7.9375"
-       x="37.041668"
-       y="23.8125" />
-  </g>
+  <path
+     id="rect4851"
+     style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 80,40 v 20 h 10 v 10 h 10 V 80 H 80 V 70 H 70 v 20 h 10 v 10 h 20 v 10 H 90 70 V 100 H 60 v 20 h 10 v 10 h 20 v 10 h 10 v 70 h 110 10 V 60 H 210 V 50 H 100 90 V 40 Z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect8494"
+     style="fill:#f2a52b;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 140,130 v 10 h -10 v 20 h 10 v 10 h 10 v 10 h 10 v 10 h 10 v -10 h 10 v -10 h 10 v -10 h 10 v -20 h -10 v -10 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect12247"
+     style="fill:#7f3300;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 150,140 v 10 h 10 v -10 z m 20,0 v 10 h 10 v -10 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect6091"
+     style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 120,80 v 20 h -20 v 10 10 h 10 v -10 h 10 v 20 h 40 v -20 h 10 v 20 h 40 V 80 h -40 v 20 H 160 V 80 Z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect4748"
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 130,90 v 30 h 10 V 90 Z m 50,0 v 30 h 10 V 90 Z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect4746"
+     style="fill:#000000;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 140,90 v 30 h 10 V 90 Z m 50,0 v 30 h 10 V 90 Z"
+     transform="scale(0.26458333)" />
 </svg>

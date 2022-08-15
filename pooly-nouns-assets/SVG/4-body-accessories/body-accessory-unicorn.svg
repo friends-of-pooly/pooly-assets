@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="320"
+   viewBox="0 0 84.666665 84.666669"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     id="rect36937"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 220,150 v 10 10 h 20 v -10 h -10 v -10 z m 20,20 v 10 h -10 v 10 h -10 v 20 h 10 v 10 h 10 v 10 20 h -10 v 10 H 80 V 250 H 70 V 240 H 60 V 230 H 50 v 10 H 40 v 10 H 30 v 10 H 20 v 40 h 10 v -20 h 10 v -10 h 10 v -10 h 10 v 10 h 10 v 20 h 10 v 10 h 40 v 10 h 80 v -10 h 40 v -10 h 10 v -10 h 10 v -50 h 40 v -10 h 10 v -20 h -30 v -20 h -20 v -10 z"
+     transform="scale(0.26458333)" />
+  <rect
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     id="rect36995"
+     width="2.6458333"
+     height="2.6458333"
+     x="66.145836"
+     y="50.270832" />
+  <path
+     id="rect37139"
+     style="fill:#4d4d4d;fill-rule:evenodd;stroke-width:0.264999"
+     d="m 79.375,52.916664 h 2.645833 v 2.645833 H 79.375 Z" />
+  <path
+     id="rect37163"
+     style="fill:#ffd800;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 300,130 v 10 h 10 v -10 z m 0,10 h -10 v 10 h -10 v 10 h -10 v 10 h -10 v 10 h 20 v -10 h 10 v -10 h 10 v -10 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect37055"
+     style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 240,160 v 10 h 10 v -10 z m 0,10 h -10 v 10 h 10 z m -10,10 h -10 v 10 h 10 z m -10,10 h -10 v 20 h 10 z m 0,20 v 10 h 10 v -10 z m 10,10 v 30 h 10 v -30 z m 0,30 h -20 v 10 h 20 z M 40,230 v 10 h 10 v -10 z m 10,10 v 10 h 10 v -10 z m 10,0 H 70 V 230 H 60 Z m 10,0 v 10 h 10 v -10 z m 10,10 v 10 h 20 v -10 z m 0,10 H 70 v 10 h 10 z m 0,10 v 10 h 10 v -10 z m 0,10 H 70 v 10 H 80 Z M 70,260 V 250 H 60 v 10 z M 50,250 H 40 v 10 H 50 Z M 40,260 H 30 v 10 H 40 Z M 30,270 H 20 v 10 H 30 Z M 40,250 V 240 H 30 v 10 z m -20,40 v 10 h 10 v -10 z"
+     transform="scale(0.26458333)" />
+</svg>
