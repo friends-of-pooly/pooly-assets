@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="320"
+   viewBox="0 0 84.666665 84.666669"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     id="rect5538"
+     style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 20,180 v 20 h 10 v -20 z m 20,10 v 70 h 20 v 30 H 90 V 200 H 60 v -10 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect5564"
+     style="fill:#341762;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 10,180 v 10 h 10 v -10 z m 10,20 v 10 h 10 v -10 z m 30,40 v 30 h 10 v -30 z m 20,10 v 50 h 10 v -50 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect36911"
+     style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 20,230 v 70 h 10 v 20 h 10 v -20 h 10 v -70 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect36883"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 40,180 v 10 h 20 v -10 z m 20,10 v 10 h 10 v -10 z m -20,0 H 30 v 50 h 10 z"
+     transform="scale(0.26458333)" />
+</svg>

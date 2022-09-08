@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="320"
+   viewBox="0 0 84.666665 84.666669"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     id="rect4851"
+     style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 110,20 V 50 H 100 90 V 40 H 80 v 20 h 10 v 10 h 10 V 80 H 80 V 70 H 70 v 20 h 10 v 10 h 20 v 10 H 90 70 V 100 H 60 v 20 h 10 v 10 h 20 v 10 h 10 v 20 50 h 100 20 v -20 h -20 v -30 -10 h 20 V 60 H 210 V 50 H 200 V 40 H 130 V 30 H 120 V 20 Z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect1712"
+     style="fill:#341762;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 130,40 v 10 h 10 V 40 Z m 10,10 v 10 h 10 V 50 Z m -30,0 v 10 h 10 V 50 Z m -10,20 v 10 h 20 V 70 Z m 20,10 v 10 h 10 V 80 Z m -20,20 v 10 h 20 v -10 z m 20,10 v 10 h 10 v -10 z m 10,10 v 10 h 10 v -10 z m -30,20 v 10 h 20 v -10 z m 20,10 v 10 h 10 v -10 z m 10,10 v 20 h 10 v -20 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect5812"
+     style="fill:#f2a52b;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 250,110 v 10 h -30 v 10 h -10 -20 v 10 h -20 v 40 h 20 v 10 h 30 v 10 h 20 v 10 h 20 v -10 h 10 v -10 h -10 -10 v -10 h -20 v -10 h -30 v -10 h 10 v -10 h 20 v -10 h 20 v -10 h 10 v -10 h 20 v -10 h -20 z m 20,80 h 10 v -10 h -10 z"
+     transform="scale(0.26458333)" />
+  <rect
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     id="rect5802"
+     width="7.9375"
+     height="7.9375"
+     x="44.979168"
+     y="23.8125" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     id="rect5804"
+     width="2.6458333"
+     height="2.6458333"
+     x="44.979168"
+     y="23.8125" />
+  <rect
+     style="fill:#7f3300;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     id="rect5816"
+     width="2.6458333"
+     height="2.6458333"
+     x="52.916664"
+     y="34.395832" />
+</svg>

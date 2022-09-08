@@ -12,29 +12,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2" />
-  <g
-     id="layer11"
-     style="display:inline">
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect9220"
-       width="52.916664"
-       height="2.6458333"
-       x="15.875"
-       y="15.875" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect9266"
-       width="37.041668"
-       height="13.229166"
-       x="23.8125"
-       y="0" />
-    <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
-       id="rect9496"
-       width="37.041668"
-       height="2.6458333"
-       x="23.8125"
-       y="13.229166" />
-  </g>
+  <path
+     id="rect9220"
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 90,0 V 50 H 230 V 0 Z M 60,60 V 70 H 260 V 60 Z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect9496"
+     style="opacity:1;fill:#ff0000;fill-rule:evenodd;stroke-width:0.264999"
+     d="m 23.8125,13.229166 h 37.041668 v 2.645833 H 23.8125 Z" />
 </svg>

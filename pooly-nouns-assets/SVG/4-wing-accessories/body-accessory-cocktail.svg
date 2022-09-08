@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="320"
+   viewBox="0 0 84.666665 84.666669"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     id="rect5538"
+     style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 20,180 v 20 h 10 v 20 h 10 v 40 h 20 v 30 H 90 V 200 H 60 V 190 H 40 30 v -10 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect5564"
+     style="fill:#341762;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 10,180 v 10 h 10 v -10 z m 10,20 v 10 h 10 v -10 z m 10,20 v 20 h 10 v -20 z m 20,20 v 30 h 10 v -30 z m 20,10 v 50 h 10 v -50 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect14644"
+     style="fill:#00ff00;fill-rule:evenodd;stroke-width:0.264999"
+     d="m 13.229166,18.520834 h 2.645833 v 2.645833 h -2.645833 z" />
+  <path
+     id="rect12309"
+     style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 50,70 V 90 H 60 V 70 Z m 0,20 H 40 v 30 H 50 Z M 40,120 H 30 v 20 h 10 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect12241"
+     style="fill:#00ff00;fill-rule:evenodd;stroke-width:0.264999"
+     d="m 15.874999,13.229166 h 2.645833 v 5.291667 h -2.645833 z" />
+  <path
+     id="rect12083"
+     style="fill:#f2a52b;fill-opacity:0.72;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 30,80 v 20 H 20 v 40 h 10 v 10 H 60 V 140 H 70 V 100 H 60 V 80 Z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect17103"
+     style="fill:#784421;fill-rule:evenodd;stroke-width:0.264999"
+     d="m 10.583333,18.520834 h 2.645834 V 23.8125 h -2.645834 z" />
+  <path
+     id="rect11774"
+     style="fill:#ffffff;fill-opacity:0.57;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 20,70 v 30 H 10 v 40 h 10 v 10 h 10 v 10 h 10 v 20 H 30 v 10 H 20 v 10 H 70 V 190 H 60 V 180 H 50 V 160 H 60 V 150 H 70 V 140 H 80 V 100 H 70 V 70 Z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect11835"
+     style="fill:#ffffff;fill-opacity:0.57;fill-rule:evenodd;stroke-width:0.264999"
+     d="M 2.6458333,18.520832 H 21.166667 v 2.645833 H 2.6458333 Z" />
+  <path
+     id="rect12541"
+     style="fill:#ffffff;fill-opacity:0.57;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 10,70 V 80 H 20 V 70 Z m 60,0 V 80 H 80 V 70 Z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect17101"
+     style="fill:#784421;fill-rule:evenodd;stroke-width:0.264999"
+     d="m 7.9375,15.875 h 2.645833 v 2.645833 H 7.9375 Z" />
+  <path
+     id="rect16981"
+     style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 20,40 V 50 H 10 V 70 H 20 V 60 H 30 V 50 H 40 V 40 H 30 Z"
+     transform="scale(0.26458333)" />
+</svg>

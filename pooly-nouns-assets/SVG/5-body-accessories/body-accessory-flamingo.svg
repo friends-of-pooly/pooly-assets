@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="320"
+   viewBox="0 0 84.666665 84.666669"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     id="rect31793"
+     style="fill:#ff00dc;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 240,170 v 10 h -10 v 30 h 10 v 40 h -10 v 10 H 80 V 240 H 60 V 230 H 50 v 30 h 10 v 10 h 10 v 20 h 180 v -20 h 10 v -20 -40 h 20 V 180 H 270 V 170 Z M 50,230 V 220 H 40 v 10 z M 40,220 V 210 H 30 v 10 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect32269"
+     style="fill:#ff7fed;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 270 200 L 270 220 L 300 220 L 310 220 L 310 230 L 320 230 L 320 220 L 320 210 L 300 210 L 300 200 L 270 200 z M 40 210 L 40 220 L 50 220 L 50 210 L 40 210 z M 50 220 L 50 230 L 60 230 L 60 220 L 50 220 z M 60 230 L 60 240 L 70 240 L 70 230 L 60 230 z M 70 240 L 70 250 L 80 250 L 80 240 L 70 240 z M 80 250 L 80 260 L 90 260 L 90 250 L 80 250 z M 80 260 L 70 260 L 70 270 L 80 270 L 80 260 z M 80 270 L 80 280 L 70 280 L 70 290 L 80 290 L 80 300 L 100 300 L 110 300 L 110 310 L 210 310 L 210 300 L 240 300 L 240 290 L 250 290 L 250 280 L 230 280 L 230 290 L 220 290 L 220 280 L 210 280 L 210 290 L 200 290 L 200 280 L 190 280 L 190 290 L 180 290 L 180 280 L 170 280 L 170 290 L 160 290 L 160 280 L 150 280 L 150 290 L 140 290 L 140 280 L 130 280 L 130 290 L 120 290 L 120 280 L 110 280 L 110 290 L 100 290 L 100 280 L 90 280 L 90 270 L 80 270 z M 70 280 L 70 270 L 60 270 L 60 280 L 70 280 z M 70 260 L 70 250 L 60 250 L 60 260 L 70 260 z M 60 250 L 60 240 L 50 240 L 50 250 L 60 250 z M 50 240 L 50 230 L 40 230 L 40 240 L 50 240 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="rect36700"
+     style="fill-rule:evenodd;stroke-width:0.264999"
+     d="m 68.791664,50.270832 h 2.645833 v 2.645833 h -2.645833 z" />
+</svg>
