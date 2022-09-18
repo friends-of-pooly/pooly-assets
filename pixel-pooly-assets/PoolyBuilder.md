@@ -6,11 +6,13 @@
 - [TLDR](https://github.com/rdp3/pooly-assets/edit/main/pixel-pooly-assets/PoolyBuilder.md#tldr)
 - [Layer Composition](https://github.com/rdp3/pooly-assets/edit/main/pixel-pooly-assets/PoolyBuilder.md#swooping-into-the-details)
 - [How to Make an SVG into "Pixels"](https://github.com/rdp3/pooly-assets/edit/main/pixel-pooly-assets/PoolyBuilder.md#swooping-into-the-details)
+- [Using the Wire Frame](https://github.com/rdp3/pooly-assets/edit/main/pixel-pooly-assets/PoolyBuilder.md#using-the-wire-frame)
+- [What's Next](https://github.com/rdp3/pooly-assets/edit/main/pixel-pooly-assets/PoolyBuilder.md#whats-next)
 
 ---
 
 #### **TLDR:**
-A 320 x 320 SVG Wire Frame with examples is here (add link when loaded).
+A 320 x 320 SVG Wire Frame with examples is [here](pixel-pooly-assets/SVG/PoolyWireFrame.svg).
 
 When compiling the NFT the Layers compile in the following order:
 1. Body (which may include left/Right/Both Wings)
@@ -23,7 +25,7 @@ When compiling the NFT the Layers compile in the following order:
 #### **Swooping into the Details**
 
 You'll find a 320 x 320 SVG file with a Wire Frame and Pixel Pooly Examples in this repo:
-<link>
+[Wire Frame](pixel-pooly-assets/SVG/PoolyWireFrame-Plain.svg)
 
 #### The Layer Composition
 Before diving into the SVG, let's go over how a Pooly is compiled. 
@@ -70,3 +72,26 @@ Yes the V in SVG is for Vector, yes Pixel Pooly is blocky pixels. To do this the
 - Snapping to the grid should also be turned on so each pixel is entire filled by the objects in the image,
 - Once the image is designed, the objects in the image should be combined and converted to paths,
   - Note: combining objects will require some planning to ensure the image is layered appropriately. 
+
+#### Using the Wire Frame
+The [Wire Frame](pixel-pooly-assets/SVG/PoolyWireFrame-Plain.svg) for Pixel Pooly has a lot of groups and layers in the SVG.
+Some of these groups contain layers that are examples to experiment with and see how the layers for building a Pooly work. 
+Each example layer should start with a number, this indicates the layer that trait is in the [Layer Composition](https://github.com/rdp3/pooly-assets/edit/main/pixel-pooly-assets/PoolyBuilder.md#swooping-into-the-details).
+
+There will also be a Wire Frame group, this has a few layers in it that just provide an outline of where each of the traits layers in the layer composition exist. The Body Layer is a basic rectangle at the bottom center of the image, however staying in the bounds is not required, many body variations have wings or feet built into the Body Layer.
+Same with the Head layer, staying within the bounds is not required, many of the craw designs on the head go outside the bounds, and a few variations explore Pooly with a turned head where much of the beak and craw are outside the bounds.
+
+The other points are the connect points for the traits, so if wings or something else is to be added to either side of the body, they should overlap with the slim rectangles on either side of the body.
+If something is designed to come our of the mouth of Pooly the single pixel point in the head is where the current traits come out of. 
+It's not required to use this location, but this location will be the location that will always work for all designs.
+If eyewear is design the eye locations are also provided.
+For hat wear the top rectangle is provided where a hat currently overlaps with the head.
+Most hats also extend past the head by one or two pixels on either side to help cover the craw but this is not required.
+
+It's also not necessary that all traits are composed at once, use some of the examples as a base and build the one or two traits desired.
+For instance if a designer just want to build a hat, just build the hat in the corresponding location, delete all the example groups and wire frame when completed, save the SVG as a new hat with a clever name and submit a pull request.
+
+#### What's Next
+Build your Pooly!
+In time an SVG with all traits will be compiled so an artist will be able to bring their custome trait into the SVG and see how their trait interacts with the other traits.
+🪶🛡️
