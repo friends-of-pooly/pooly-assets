@@ -13,16 +13,6 @@
   <defs
      id="defs2" />
   <path
-     id="rect932"
-     style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
-     d="M 90 210 L 90 320 L 230 320 L 230 310 L 240 310 L 240 300 L 230 300 L 230 210 L 90 210 z "
-     transform="scale(0.26458333)" />
-  <path
-     id="rect1005"
-     style="fill:#341762;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
-     d="M 150 220 L 150 230 L 140 230 L 140 240 L 130 240 L 130 260 L 140 260 L 140 250 L 150 250 L 150 240 L 160 240 L 160 230 L 170 230 L 170 220 L 160 220 L 150 220 z M 130 260 L 120 260 L 120 290 L 130 290 L 130 260 z M 120 290 L 110 290 L 110 300 L 110 310 L 150 310 L 150 300 L 170 300 L 170 290 L 140 290 L 140 300 L 120 300 L 120 290 z M 170 290 L 190 290 L 200 290 L 200 280 L 210 280 L 210 270 L 220 270 L 220 230 L 210 230 L 210 260 L 200 260 L 200 270 L 190 270 L 190 280 L 170 280 L 170 290 z M 210 230 L 210 220 L 200 220 L 200 230 L 210 230 z "
-     transform="scale(0.26458333)" />
-  <path
      id="rect935"
      style="fill:#ffb70f;fill-rule:evenodd;stroke-width:1.00157"
      d="M 240 270 L 240 280 L 230 280 L 230 290 L 260 290 L 260 280 L 250 280 L 250 270 L 240 270 z M 260 280 L 270 280 L 270 270 L 260 270 L 260 280 z "

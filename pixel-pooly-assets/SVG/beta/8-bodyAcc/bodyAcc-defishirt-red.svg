@@ -14,7 +14,7 @@
      id="defs2" />
   <path
      id="rect932"
-     style="fill-rule:evenodd;stroke-width:0.264999;fill:#ff0000"
+     style="fill-rule:evenodd;stroke-width:0.264999;fill:#ff0420;fill-opacity:1"
      d="M 23.8125,55.5625 H 60.854164 V 84.666664 H 23.8125 Z" />
   <path
      id="rect1299"
@@ -23,7 +23,7 @@
      transform="scale(0.26458333)" />
   <path
      id="rect3068"
-     style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     style="fill:#ff0420;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
      d="m 110,240 v 50 h 10 v -50 z m 80,0 v 10 h 10 v 10 h -10 v 40 h 20 v -40 -10 -10 z m -40,20 v 10 h 10 v -10 z m 0,20 v 10 h 20 v -10 z"
      transform="scale(0.26458333)" />
 </svg>

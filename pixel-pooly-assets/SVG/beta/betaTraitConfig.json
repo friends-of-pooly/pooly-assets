@@ -1,0 +1,79 @@
+const optionsBG = [
+   { value: 1, label: Sand, tier: 0, stat: None, boost: 0, description: Pooly likes to chill by feeling the sand between their toes. },
+   { value: 2, label: Sky Blue, tier: 0, stat: None, boost: 0, description: Pooly soars through blue skies, practicing for their moonshot. }
+];
+
+const optionsBodies = [
+   { value: 1, label: Pooly, tier: 0, stat: None, boost: 0, description: Excellence is found as a simple Pooly. },
+   { value: 2, label: Wings Tucked, tier: 0, stat: Security, boost: +2, description: With their wings tucked, Pooly is ready for action. }
+];
+
+const optionsHeads = [
+   { "id": 1, "label": "Pooly", "tier": 0, "stat": "None", "boost": 0, "description": "Sometimes a birb sitting is just hiding that the birb is standing at the ready.", "image":"/img/pixel-pooly-assets/SVG/beta/2-heads/plain.svg" },
+   { "id": 2, "label": "Looking", "tier": 0, "stat": "Privacy", "boost": +1, "description": "Keep them eyes peeled, looking all around for threats to quash.", "image":"/img/pixel-pooly-assets/SVG/beta/2-heads/head-looking.svg" },
+   { "id": 3, "label": "Shocked", "tier": 0, "stat": "Privacy", "boost": +2, "description": "Shocked? As if, hyper focused, pupils pin-pointed, target locked.", "image":"/img/pixel-pooly-assets/SVG/beta/2-heads/head-shooketh.svg" },
+   { "id": 4, "label": "OP Eyes", "tier": 1, "stat": "Fellowship", "boost": +1, "description": "Even Pooly needs to catch a red eye every now and then.", "image":"/img/pixel-pooly-assets/SVG/beta/2-heads/head-OPeyes.svg" },
+   { "id": 5, "label": "OP Pirate", "tier": 1, "stat": "Privacy", "boost": +2, "description": "Them pirates were onto something, switch patch sides, activate night-vision mode.", "image":"/img/pixel-pooly-assets/SVG/beta/2-heads/head-OPpirate.svg" },
+   { "id": 6, "label": "OP Cooly", "tier": 1, "stat": "Advocacy", "boost": +2, "description": "Rose colored glasses? How about Optimistic colored glasses.", "image":"/img/pixel-pooly-assets/SVG/beta/2-heads/head-OPcooly.svg" }
+];
+
+const optionsFeet = [
+   { "id": 1, "label": "None", "tier": 0, "stat": "None", "boost": 0, "description": "Sometimes a birb sitting is just hiding that the birb is standing at the ready.", "image":"" },
+   { "id": 2, "label": "Sitting", "tier": 0, "stat": "Ownership", "boost": +1, "description": "Pooly has walked in many others shoes, take a load off.", "image":"/img/pixel-pooly-assets/SVG/beta/3-feet/feet-sitting.svg" }
+];
+
+const optionsHatAcc = [
+   { "id": 1, "label": "None", "tier": 0, "stat": "None", "boost": 0, "description": "Pooly has a craw, they don't need a hat.", "image":"" },
+   { "id": 2, "label": "Cap Blue", "tier": 0, "stat": "None", "boost": 0, "description": "Being a baller ain't easy work, but gettin' homeruns is.", "image":"/img/pixel-pooly-assets/SVG/beta/4-hatAcc/hatAcc-cap-blue.svg" },
+   { "id": 3, "label": "Cap Green", "tier": 0, "stat": "None", "boost": 0, "description": "Being a baller ain't easy work, but gettin' homeruns is.", "image":"/img/pixel-pooly-assets/SVG/beta/4-hatAcc/hatAcc-cap-green.svg" },
+   { "id": 4, "label": "Cap Orange", "tier": 0, "stat": "None", "boost": 0, "description": "Being a baller ain't easy work, but gettin' homeruns is.", "image":"/img/pixel-pooly-assets/SVG/beta/4-hatAcc/hatAcc-cap-orange.svg" },
+   { "id": 5, "label": "Cap Red", "tier": 0, "stat": "None", "boost": 0, "description": "Being a baller ain't easy work, but gettin' homeruns is.", "image":"/img/pixel-pooly-assets/SVG/beta/4-hatAcc/hatAcc-cap-red.svg" },
+   { "id": 6, "label": "Giga Brain", "tier": 0, "stat": "Ownership", "boost": +1, "description": "Make Pooly able to out-smart any obstacle in their path.", "image":"/img/pixel-pooly-assets/SVG/beta/4-hatAcc/hatAcc-gigabrain.svg" },
+   { "id": 7, "label": "King", "tier": 2, "stat": "Security", "boost": +2, "description": "The power of Pooly is having the royal guard on the right side.", "image":"/img/pixel-pooly-assets/SVG/beta/4-hatAcc/hatAcc-king.svg" },
+   { "id": 8, "label": "Egghead", "tier": 1, "stat": "Security", "boost": +1, "description": "Protecc the Pooly with egghead helmet.", "image":"/img/pixel-pooly-assets/SVG/beta/4-hatAcc/hatAcc-egghead.svg" },
+   { "id": 9, "label": "Top Hat", "tier": 1, "stat": "Privacy", "boost": +1, "description": "With this top hat, Pooly is one step closer to being Tuxedo Mask.", "image":"/img/pixel-pooly-assets/SVG/beta/4-hatAcc/hatAcc-tophat.svg" }
+];
+
+const optionsFaceAcc = [
+   { "id": 1, "label": "None", "tier": 0, "stat": "None", "boost": 0, "description": "Keep that right wing open for what's coming next.", "image":"" },
+   { "id": 2, "label": "Bubble Pipe", "tier": 0, "stat": "Privacy", "boost": +1, "description": "Hide Pooly in a cloud of bubbles to escape from prying eyes.", "image":"/img/pixel-pooly-assets/SVG/beta/5-faceAcc/faceAcc-bubblepipe.svg" }
+];
+
+const optionsLeftWingAcc = [
+   { "id": 1, "label": "None", "tier": 0, "stat": "None", "boost": 0, "description": "Keep that right wing open for what's coming next.", "image":"" },
+   { "id": 2, "label": "Blue Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little blue umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/6-leftWingAcc/leftWingAcc-umbrella-blue.svg" },
+   { "id": 3, "label": "Green Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little green umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/6-leftWingAcc/leftWingAcc-umbrella-green.svg" },
+   { "id": 4, "label": "Orange Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little orange umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/6-leftWingAcc/leftWingAcc-umbrella-orange.svg" },
+   { "id": 5, "label": "Pink Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little pink umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/6-leftWingAcc/leftWingAcc-umbrella-pink.svg" },
+   { "id": 6, "label": "Purple Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little purple umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/6-leftWingAcc/leftWingAcc-umbrella-purple.svg" },
+   { "id": 7, "label": "Red Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little red umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/6-leftWingAcc/leftWingAcc-umbrella-red.svg" },
+   { "id": 8, "label": "Glitzy Cane", "tier": 1, "stat": "Security", "boost": +1, "description": "Walk tall, stroll fancy, and pop some heads when Pooly marches.", "image":"/img/pixel-pooly-assets/SVG/beta/6-leftWingAcc/leftWingAcc-cane.svg" },
+   { "id": 9, "label": "Defender Shield", "tier": 1, "stat": "Defense", "boost": +2, "description": "Start the shield wall with this Defender Shield.", "image":"/img/pixel-pooly-assets/SVG/beta/6-leftWingAcc/leftWingAcc-defendershield.svg" },
+   { "id": 10, "label": "Judges Gavel", "tier": 2, "stat": "Advocacy", "boost": +3, "description": "Pooly's voice will echo like the smack of the gavel.", "image":"/img/pixel-pooly-assets/SVG/beta/6-leftWingAcc/leftWingAcc-gavel.svg" }
+];
+
+const optionsRightWingAcc = [
+   { "id": 1, "label": "None", "tier": 0, "stat": "None", "boost": 0, "description": "Keep that right wing open for what's coming next.", "image":"" },
+   { "id": 2, "label": "Blue Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little blue umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/7-rightWingAcc/rightWingAcc-umbrella-blue.svg" },
+   { "id": 3, "label": "Green Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little green umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/7-rightWingAcc/rightWingAcc-umbrella-green.svg" },
+   { "id": 4, "label": "Orange Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little orange umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/7-rightWingAcc/rightWingAcc-umbrella-orange.svg" },
+   { "id": 5, "label": "Pink Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little pink umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/7-rightWingAcc/rightWingAcc-umbrella-pink.svg" },
+   { "id": 6, "label": "Purple Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little purple umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/7-rightWingAcc/rightWingAcc-umbrella-purple.svg" },
+   { "id": 7, "label": "Red Umbrella", "tier": 0, "stat": "Defense", "boost": +1, "description": "Protect Pooly, rain or shine, with this handy, little red umbrella.", "image":"/img/pixel-pooly-assets/SVG/beta/7-rightWingAcc/rightWingAcc-umbrella-red.svg" },
+   { "id": 8, "label": "Glitzy Cane", "tier": 1, "stat": "Security", "boost": +1, "description": "Walk tall, stroll fancy, and pop some heads when Pooly marches.", "image":"/img/pixel-pooly-assets/SVG/beta/7-rightWingAcc/rightWingAcc-cane.svg" },
+   { "id": 9, "label": "Defender Shield", "tier": 1, "stat": "Defense", "boost": +4, "description": "Start the shield wall with this Defender Shield.", "image":"/img/pixel-pooly-assets/SVG/beta/7-rightWingAcc/rightWingAcc-defendershield.svg" },
+   { "id": 10, "label": "Judges Gavel", "tier": 2, "stat": "Advocacy", "boost": +3, "description": "Pooly's voice will echo like the smack of the gavel.", "image":"/img/pixel-pooly-assets/SVG/beta/7-rightWingAcc/rightWingAcc-gavel.svg" }
+];
+
+const optionsBodyAcc = [
+   { "id": 1, "label": "None", "tier": 0, "stat": "None", "boost": 0, "description": "Some Pooly's don't need threads to be reppin'.", "image":"" },
+   { "id": 2, "label": "Green DeFi Shirt", "tier": 0, "stat": "Ownership", "boost": +1, "description": "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", "image":"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-defishirt-green.svg" },
+   { "id": 3, "label": "Navy DeFi Shirt", "tier": 0, "stat": "Ownership", "boost": +1, "description": "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", "image":"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-defishirt-navy.svg" },
+   { "id": 4, "label": "Orange DeFi Shirt", "tier": 0, "stat": "Ownership", "boost": +1, "description": "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", "image":"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-defishirt-orange.svg" },
+   { "id": 5, "label": "Red DeFi Shirt", "tier": 0, "stat": "Ownership", "boost": +1, "description": "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", "image":"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-defishirt-red.svg" },
+   { "id": 6, "label": "Black FoP Shirt", "tier": 1, "stat": "Fellowship", "boost": +2, "description": "Welcome to the inner circle of Friends of Pooly.", "image":"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-FoPshirt-black.svg" },
+   { "id": 7, "label": "Navy FoP Shirt", "tier": 1, "stat": "Fellowship", "boost": +2, "description": "Welcome to the inner circle of Friends of Pooly.", "image":"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-FoPshirt-navy.svg" },
+   { "id": 8, "label": "Red FoP Shirt", "tier": 1, "stat": "Fellowship", "boost": +2, "description": "Welcome to the inner circle of Friends of Pooly.", "image":"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-FoPshirt-red.svg" },
+   { "id": 9, "label": "OP Shirt", "tier": 1, "stat": "Advocacy", "boost": +2, "description": "Why yes, this shirt is overpowered.", "image":"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-OPshirt.svg" },
+   { "id": 10, "label": "Pooly Chain", "tier": 2, "stat": "Ownership", "boost": +2, "description": "Even a birb can be a little gangsta, sometimes.", "image":"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-poolychain.svg" }
+];
