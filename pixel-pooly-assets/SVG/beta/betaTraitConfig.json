@@ -1,11 +1,11 @@
 const optionsBG = [
-   { value: 1, label: Sand, tier: 0, stat: None, boost: 0, description: Pooly likes to chill by feeling the sand between their toes. },
-   { value: 2, label: Sky Blue, tier: 0, stat: None, boost: 0, description: Pooly soars through blue skies, practicing for their moonshot. }
+   { "id": 1, "label": "Sand", "tier": 0, "stat": "None", "boost": 0, "description": "Pooly likes to chill by feeling the sand between their toes.", "image":"/img/pixel-pooly-assets/SVG/beta/0-backgrounds/bg-sand.svg" },
+   { "id": 2, "label": "Sky Blue", "tier": 0, "stat": "None", "boost": 0, "description": "Pooly soars through blue skies, practicing for their moonshot.", "image":"/img/pixel-pooly-assets/SVG/beta/0-backgrounds/bg-skyblue.svg" }
 ];
 
 const optionsBodies = [
-   { value: 1, label: Pooly, tier: 0, stat: None, boost: 0, description: Excellence is found as a simple Pooly. },
-   { value: 2, label: Wings Tucked, tier: 0, stat: Security, boost: +2, description: With their wings tucked, Pooly is ready for action. }
+   { "id": 1, "label": "Pooly", "tier": 0, "stat": "None", "boost": 0, "description": "Excellence is found as a simple Pooly.", "image":"/img/pixel-pooly-assets/SVG/beta/1-bodies/body-pooly.svg" },
+   { "id": 2, "label": "Wings Tucked", "tier": 0, "stat": "Security", "boost": +2, "description": "With their wings tucked, Pooly is ready for action.", "image":"/img/pixel-pooly-assets/SVG/beta/1-bodies/body-wingstucked.svg" }
 ];
 
 const optionsHeads = [
