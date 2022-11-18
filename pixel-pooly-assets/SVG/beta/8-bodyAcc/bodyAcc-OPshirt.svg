@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="320"
+   viewBox="0 0 84.666665 84.666669"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     id="rect932"
+     style="fill-rule:evenodd;stroke-width:0.264999;fill:#ff0420;fill-opacity:1"
+     d="M 23.8125,55.5625 H 60.854164 V 84.666664 H 23.8125 Z" />
+  <path
+     id="rect1080"
+     style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 155 230 L 155 250 L 100 250 L 100 260 L 155 260 L 155 275 L 150 275 L 150 280 L 155 280 L 155 290 L 150 290 L 150 295 L 155 295 L 155 310 L 165 310 L 165 295 L 170 295 L 170 290 L 165 290 L 165 280 L 170 280 L 170 275 L 165 275 L 165 260 L 220 260 L 220 250 L 165 250 L 165 230 L 155 230 z M 220 250 L 230 250 L 230 240 L 220 240 L 220 250 z M 170 280 L 170 285 L 205 285 L 205 280 L 170 280 z M 205 280 L 210 280 L 210 275 L 205 275 L 205 280 z M 170 295 L 170 300 L 200 300 L 200 295 L 170 295 z M 200 295 L 205 295 L 205 290 L 200 290 L 200 295 z M 165 310 L 165 315 L 190 315 L 190 310 L 165 310 z M 190 310 L 195 310 L 195 305 L 190 305 L 190 310 z M 155 310 L 130 310 L 130 315 L 155 315 L 155 310 z M 130 310 L 130 305 L 125 305 L 125 310 L 130 310 z M 150 295 L 120 295 L 120 300 L 150 300 L 150 295 z M 120 295 L 120 290 L 115 290 L 115 295 L 120 295 z M 150 280 L 115 280 L 115 285 L 150 285 L 150 280 z M 115 280 L 115 275 L 110 275 L 110 280 L 115 280 z M 100 250 L 100 240 L 90 240 L 90 250 L 100 250 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="rect1314"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 110 220 L 110 230 L 110 250 L 120 250 L 120 230 L 140 230 L 140 250 L 150 250 L 150 230 L 150 220 L 110 220 z M 170 220 L 170 230 L 170 250 L 180 250 L 200 250 L 210 250 L 210 220 L 200 220 L 170 220 z M 180 230 L 200 230 L 200 240 L 180 240 L 180 230 z M 110 260 L 110 270 L 120 270 L 150 270 L 150 260 L 120 260 L 110 260 z M 170 260 L 170 270 L 180 270 L 180 260 L 170 260 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="rect1346"
+     style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 110 250 L 110 260 L 120 260 L 120 250 L 110 250 z M 140 250 L 140 260 L 150 260 L 150 250 L 140 250 z M 170 250 L 170 260 L 180 260 L 180 250 L 170 250 z "
+     transform="scale(0.26458333)" />
+</svg>
