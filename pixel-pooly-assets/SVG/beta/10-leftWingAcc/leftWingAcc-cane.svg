@@ -13,16 +13,6 @@
   <defs
      id="defs2" />
   <path
-     id="rect5538"
-     style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
-     d="m 20,180 v 20 h 10 v 20 h 10 v 40 h 20 v 30 H 90 V 200 H 60 V 190 H 40 30 v -10 z"
-     transform="scale(0.26458333)" />
-  <path
-     id="rect5564"
-     style="fill:#341762;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
-     d="m 10,180 v 10 h 10 v -10 z m 10,20 v 10 h 10 v -10 z m 10,20 v 20 h 10 v -20 z m 20,20 v 30 h 10 v -30 z m 20,10 v 50 h 10 v -50 z"
-     transform="scale(0.26458333)" />
-  <path
      id="rect18487"
      style="fill:#00e4ff;fill-opacity:0.75;fill-rule:evenodd;stroke-width:1.00157"
      d="m 20,160 v 20 h 10 v 10 h 10 v -10 h 10 v -20 z"
