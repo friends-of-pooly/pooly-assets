@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="90.000023"
+   height="150"
+   viewBox="0 0 23.812506 39.687501"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   sodipodi:docname="rightWingAcc-defendershield.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.01875"
+     inkscape:cx="-69.845201"
+     inkscape:cy="9.9071207"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect5506"
+     style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     d="m 15.875006,0 v 2.645833 h 2.645833 v 2.645833 h 5.291667 v 13.229167 h -2.645833 v 7.937499 h -2.645834 v 5.291667 h -2.645833 v 5.291667 h -2.645833 v 2.645833 H 10.583339 V 37.041666 H 7.937505 V 31.749999 H 5.29167 V 26.458332 H 2.645835 V 18.520833 H 0 V 5.291666 H 5.29167 V 2.645833 H 7.937505 V 0 Z" />
+  <path
+     id="rect1012"
+     style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     d="m 5.29167,7.937499 v 15.875 h 5.29167 5.291666 V 21.166666 H 10.58334 V 10.583333 h 5.291666 V 7.937499 H 10.58334 Z m 10.583336,2.645834 v 10.583333 h 2.645833 V 10.583333 Z" />
+</svg>

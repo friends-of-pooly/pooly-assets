@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="139.99998"
+   height="109.99999"
+   viewBox="0 0 37.041662 29.104165"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   sodipodi:docname="bodyAcc-defishirt-orange.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.01875"
+     inkscape:cx="69.845201"
+     inkscape:cy="-50.03096"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect932"
+     style="fill:#ff7f2a;fill-rule:evenodd;stroke-width:0.264999"
+     d="M 0,0 H 37.041664 V 29.104164 H 0 Z" />
+  <path
+     id="rect1299"
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.264999"
+     d="M 2.645833,5.2916659 V 23.812499 H 7.9374996 V 21.166666 H 10.583333 V 7.9374992 H 7.9374996 V 5.2916659 Z m 21.166666,0 V 23.812499 h 7.9375 2.645834 v -7.9375 h -2.645834 v -2.645833 h 2.645834 V 10.583333 H 31.749999 V 5.2916659 Z M 13.229166,10.583333 v 13.229166 h 7.9375 V 10.583333 Z" />
+  <path
+     id="rect3068"
+     style="fill:#ff7f2a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     d="M 5.2916663,7.9374992 V 21.166666 H 7.9374996 V 7.9374992 Z m 21.1666667,0 v 2.6458338 h 2.645833 v 2.645833 h -2.645833 v 10.583333 h 5.291666 V 13.229166 10.583333 7.9374992 Z M 15.875,13.229166 v 2.645833 h 2.645833 v -2.645833 z m 0,5.291666 v 2.645834 h 5.291666 v -2.645834 z" />
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="70"
+   viewBox="0 0 52.916666 18.520834"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   sodipodi:docname="hatAcc-tophat.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.01875"
+     inkscape:cx="100.06192"
+     inkscape:cy="160"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect9220"
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     d="M 7.9374999,0 V 13.229167 H 44.979166 V 0 Z M 0,15.875 v 2.645833 H 52.916666 V 15.875 Z" />
+  <path
+     id="rect9496"
+     style="opacity:1;fill:#ff0000;fill-rule:evenodd;stroke-width:0.264999"
+     d="M 7.9375002,13.229166 H 44.979168 v 2.645833 H 7.9375002 Z" />
+</svg>

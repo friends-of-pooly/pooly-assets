@@ -4,8 +4,16 @@ const optionsBG = [
 ];
 
 const optionsBody = [
-   { tier: 0, layer: 1, frame: 0, expiry: 0, traitName: "Pooly", traitDescription: "Excellence is found as a simple Pooly.", stats: [], svg:"/img/pixel-pooly-assets/SVG/beta/1-body/body-pooly.svg" }
-];
+   { tier: 0, layer: 1, frame: 0, expiry: 0, traitName: "Pooly", traitDescription: "Excellence is found as a simple Pooly.", stats: [], svg:"/img/pixel-pooly-assets/SVG/beta/1-body/body-pooly.svg" },
+   { tier: 0, layer: 1, frame: 1, expiry: 0, traitName: "Green DeFi Shirt", traitDescription: "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", stats: [{ categoryType: "constitution", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/1-Body/body-defishirt-green.svg" },
+   { tier: 0, layer: 1, frame: 2, expiry: 0, traitName: "Navy DeFi Shirt", traitDescription: "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", stats: [{ categoryType: "constitution", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/1-Body/body-defishirt-navy.svg" },
+   { tier: 0, layer: 1, frame: 3, expiry: 0, traitName: "Orange DeFi Shirt", traitDescription: "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", stats: [{ categoryType: "constitution", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/1-Body/body-defishirt-orange.svg" },
+   { tier: 0, layer: 1, frame: 4, expiry: 0, traitName: "Red DeFi Shirt", traitDescription: "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", stats: [{ categoryType: "constitution", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/1-Body/body-defishirt-red.svg" },
+   { tier: 1, layer: 1, frame: 5, expiry: 0, traitName: "Black FoP Shirt", traitDescription: "Welcome to the inner circle of Friends of Pooly.", stats: [{ categoryType: "constitution", value: 2,}, {categoryType: "wisdom", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/1-Body/body-FoPshirt-black.svg" },
+   { tier: 1, layer: 1, frame: 6, expiry: 0, traitName: "Navy FoP Shirt", traitDescription: "Welcome to the inner circle of Friends of Pooly.", stats: [{ categoryType: "constitution", value: 2,}, {categoryType: "wisdom", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/1-Body/body-FoPshirt-navy.svg" },
+   { tier: 1, layer: 1, frame: 7, expiry: 0, traitName: "Red FoP Shirt", traitDescription: "Welcome to the inner circle of Friends of Pooly.", stats: [{ categoryType: "constitution", value: 2,}, {categoryType: "wisdom", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/1-Body/body-FoPshirt-red.svg" },
+   { tier: 1, layer: 1, frame: 8, expiry: 0, traitName: "OP Shirt", traitDescription: "Why yes, this shirt is overpowered.", stats: [{ categoryType: "constitution", value: 2,}, {categoryType: "charisma", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/1-Body/body-OPshirt.svg" }
+]; 
 
 const optionsHead = [
    { tier: 0, layer: 2, frame: 0, expiry: 0, traitName: "Pooly", traitDescription: "Sometimes a birb sitting is just hiding that the birb is standing at the ready.", stats: [], svg:"/img/pixel-pooly-assets/SVG/beta/2-head/plain.svg" },
@@ -52,15 +60,7 @@ const optionsFaceAcc = [
 
 const optionsBodyAcc = [
    { tier: 0, layer: 8, frame: 0, expiry: 0, traitName: "None", traitDescription: "Some Pooly's don't need threads to be reppin'.", stats: [], svg:"" },
-   { tier: 0, layer: 8, frame: 1, expiry: 0, traitName: "Green DeFi Shirt", traitDescription: "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", stats: [{ categoryType: "constitution", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-defishirt-green.svg" },
-   { tier: 0, layer: 8, frame: 2, expiry: 0, traitName: "Navy DeFi Shirt", traitDescription: "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", stats: [{ categoryType: "constitution", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-defishirt-navy.svg" },
-   { tier: 0, layer: 8, frame: 3, expiry: 0, traitName: "Orange DeFi Shirt", traitDescription: "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", stats: [{ categoryType: "constitution", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-defishirt-orange.svg" },
-   { tier: 0, layer: 8, frame: 4, expiry: 0, traitName: "Red DeFi Shirt", traitDescription: "Some say DeFi is Decentralized Finance, for Pooly it's Definitely Fierce.", stats: [{ categoryType: "constitution", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-defishirt-red.svg" },
-   { tier: 1, layer: 8, frame: 5, expiry: 0, traitName: "Black FoP Shirt", traitDescription: "Welcome to the inner circle of Friends of Pooly.", stats: [{ categoryType: "constitution", value: 2,}, {categoryType: "wisdom", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-FoPshirt-black.svg" },
-   { tier: 1, layer: 8, frame: 6, expiry: 0, traitName: "Navy FoP Shirt", traitDescription: "Welcome to the inner circle of Friends of Pooly.", stats: [{ categoryType: "constitution", value: 2,}, {categoryType: "wisdom", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-FoPshirt-navy.svg" },
-   { tier: 1, layer: 8, frame: 7, expiry: 0, traitName: "Red FoP Shirt", traitDescription: "Welcome to the inner circle of Friends of Pooly.", stats: [{ categoryType: "constitution", value: 2,}, {categoryType: "wisdom", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-FoPshirt-red.svg" },
-   { tier: 1, layer: 8, frame: 8, expiry: 0, traitName: "OP Shirt", traitDescription: "Why yes, this shirt is overpowered.", stats: [{ categoryType: "constitution", value: 2,}, {categoryType: "charisma", value: 1,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-OPshirt.svg" },
-   { tier: 2, layer: 8, frame: 9, expiry: 0, traitName: "Pooly Chain", traitDescription: "Even a birb can be a little gangsta, sometimes.", stats: [{ categoryType: "charisma", value: 2,}, {categoryType: "luck", value: 2,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-poolychain.svg" }
+   { tier: 2, layer: 8, frame: 1, expiry: 0, traitName: "Pooly Chain", traitDescription: "Even a birb can be a little gangsta, sometimes.", stats: [{ categoryType: "charisma", value: 2,}, {categoryType: "luck", value: 2,}], svg:"/img/pixel-pooly-assets/SVG/beta/8-bodyAcc/bodyAcc-poolychain.svg" }
 ];
 
 const optionsBodyLowerAcc = [
