@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="70"
+   height="150"
+   viewBox="0 0 18.520833 39.687501"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   sodipodi:docname="faceAcc-monocle.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.01875"
+     inkscape:cx="0"
+     inkscape:cy="80.247678"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect11190"
+     style="opacity:1;fill:#ffd800;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
+     d="m 0,0 v 2.6458333 7.9374997 2.645834 H 13.229167 V 10.583333 2.6458333 0 Z M 13.229167,13.229167 V 15.875 H 15.875 V 13.229167 Z M 15.875,15.875 v 18.520833 h 2.645833 V 15.875 Z m 0,18.520833 h -2.645833 v 2.645833 H 15.875 Z m -2.645833,2.645833 H 10.583333 V 39.6875 h 2.645834 z M 2.6458333,2.6458333 H 10.583333 V 10.583333 H 2.6458333 Z" />
+  <path
+     id="rect11220"
+     style="opacity:1;fill:#00ebff;fill-opacity:0.5;fill-rule:evenodd;stroke-width:0.264999"
+     d="M 2.6458352,2.6458336 H 10.583335 V 10.583334 H 2.6458352 Z" />
+</svg>
