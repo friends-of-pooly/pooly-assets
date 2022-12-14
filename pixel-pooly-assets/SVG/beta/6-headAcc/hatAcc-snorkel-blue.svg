@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="320"
+   viewBox="0 0 84.666665 84.666669"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     id="rect8282"
+     style="opacity:1;fill:#3b5cf7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="M 70,0 V 10 H 90 V 0 Z m 20,30 v 40 h 10 v 10 h 10 v 10 h 10 20 V 80 H 120 V 70 H 110 V 60 H 100 V 40 h 120 v 20 h -10 v 10 h -10 v 10 h -20 v 10 h 20 10 V 80 h 10 V 70 h 10 V 30 H 220 100 Z m 90,50 V 70 H 170 V 80 Z M 170,70 V 60 h -20 v 10 z m -20,0 h -10 v 10 h 10 z m -40,60 v 10 h 20 v -10 z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect8408"
+     style="opacity:1;fill:#00ffff;fill-opacity:0.75;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 100,40 v 20 h 10 v 10 h 10 v 10 h 20 V 70 h 10 V 60 h 20 v 10 h 10 v 10 h 20 V 70 h 10 V 60 h 10 V 40 Z"
+     transform="scale(0.26458333)" />
+  <path
+     id="rect8817"
+     style="opacity:1;fill:#0d26cc;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157"
+     d="m 70,10 v 130 10 h 10 v 10 h 40 v -10 h 10 V 140 H 90 V 10 Z"
+     transform="scale(0.26458333)" />
+</svg>
